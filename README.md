@@ -1,6 +1,12 @@
-# java-patterns
+# Java Patterns
 
-Design Patterns implemented with Java
+This project was created at Plovdiv University during lectures.
+
+## Description
+
+Design Patterns implemented with Java.
+
+## Implemented Patterns
 
 - Abstract Factory Pattern
 - Adapter Pattern
